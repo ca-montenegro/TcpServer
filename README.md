@@ -25,7 +25,7 @@ This is a Java application that :
 ## How to use
 ```
 git clone https://github.com/ca-montenegro/TcpServer.git
-cd TcpServer
+cd TcpTransferapp
 ```
 For *server* :
 ```
