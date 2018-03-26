@@ -255,7 +255,6 @@ class TCPClient extends JFrame implements ActionListener, MouseListener {
 	                frame.setVisible(true);
 	                
 	                
-	                
 
 					//empty file case
 	                totalRecv = 0;
