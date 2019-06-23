@@ -1,4 +1,4 @@
-# TCP File Transfer Application made for CS Lab communication infrastructure.
+# TCP File Transfer Application made for CS Lab communication infrastructure. Universidad de los Andes. Bogotá, Colombia
 
 This is a Java application that :
 
